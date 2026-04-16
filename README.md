@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates an end-to-end serverless data processing pipeline on AWS. The core idea is to automate the entire data workflow — from raw data ingestion to visual analytics — without any manual intervention.
+This project demonstrates an end-to-end serverless data processing pipeline on AWS. The core idea is to automate the entire data workflow from raw data ingestion to visual analytics without any manual intervention.
 
 ## Approach
 
